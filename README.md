@@ -1,4 +1,13 @@
-# Hi, I’m Arya ✨
+<h1 align="center">
+  Hi, I’m Arya 👋
+</h1>
+<p align="center"><b>Data Analyst | Business Intelligence</b></p>
+<p align="center">
+  I turn complex data into clear, decision-ready insights.
+</p>
+<p align="center">
+  SQL • Python • Power BI • Tableau
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Messy+Data+into+Clear+Stories;Dashboard+Design+%26+Decision+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Arya - Data Analyst" />
