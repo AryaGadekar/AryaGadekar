@@ -1,12 +1,29 @@
 <h1 align="center">
   Hi, I’m Arya 👋
 </h1>
-<p align="center"><b>Data Analyst | Business Intelligence</b></p>
+
+<p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
+
 <p align="center">
-  I turn complex data into clear, decision-ready insights.
+  Turning messy datasets into stories that drive smarter decisions
 </p>
+
 <p align="center">
   SQL • Python • Power BI • Tableau
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aryajain">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aryagadekar2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-34A853?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="Arya_Jain_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-6C757D?style=flat-square&logo=adobepdf&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
