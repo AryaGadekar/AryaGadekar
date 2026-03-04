@@ -5,7 +5,7 @@
 <p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
 
 <p align="center">
-  Turning complex data into clear, decision-ready insights.
+  Turning complex datasets into clear insights that drive confident decisions.
 </p>
 
 <p align="center">
