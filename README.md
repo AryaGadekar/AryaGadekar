@@ -13,9 +13,7 @@ SQL • Python • Excel • Power BI • Tableau
 </p>
 
 <p align="center">
-
-### `Turning Messy Data into Clear Stories`
-
+Data Visualization • Statistical Analysis • Data Modeling • Data Preparation & ETL • KPI Development
 </p>
 
 <br>
@@ -30,21 +28,6 @@ SQL • Python • Excel • Power BI • Tableau
 <a href="Arya_Jain_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-6C757D?style=flat-square&logo=adobepdf&logoColor=white"/>
 </a>
-</p>
-
-
-
-
-<p align="center">
-  <a href="https://linkedin.com/in/aryajain" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aryagadekar2001@gmail.com" aria-label="Email">
-    <img src="https://img.shields.io/badge/Email-aryagadekar2001@gmail.com-34A853?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="Arya_Jain_Resume.pdf" aria-label="Resume" download>
-    <img src="https://img.shields.io/badge/Resume-Download-6C757D?style=flat-square&logo=adobepdf&logoColor=white" alt="Resume" />
-  </a>
 </p>
 
 ---
