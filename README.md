@@ -68,7 +68,7 @@ Developed an interactive **retail analytics dashboard** to analyze sales perform
 
 **Tools Used**
 
-`Power BI` • `SQL` • `Excel` • `DAX` • `Data Modeling` • `Data Visualization`
+`Power BI` • `Excel` • `Data Visualization` • `Dashboard Design`
 
 ### Hotel Portfolio Revenue & Performance Intelligence  
 A cross-property revenue intelligence solution. I modeled demand by channel, built forecasts linked to rate rules, and delivered operational dashboards for revenue teams.
