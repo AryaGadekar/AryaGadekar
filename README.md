@@ -2,7 +2,7 @@
 Hi, I’m Arya 👋
 </h1>
 
-<p align="center"><strong>Data Analyst | Product Analyst | Business Intelligence Analyst | Power BI Developer | Tableau Developer</strong></p>
+<p align="center"><strong>Data Analyst | Product Analytics | Business Intelligence & Data Visualization</strong></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=760&lines=Turning+Messy+Data+into+Stories+that+Drive+Smarter+Decision-Making!"/>
@@ -19,15 +19,9 @@ Data Visualization • Statistical Analysis • Data Modeling • Data Preparati
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aryajain">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:aryagadekar2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="Arya_Jain_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-grey?style=for-the-badge&logo=adobepdf"/>
-  </a>
+<a href="https://linkedin.com/in/aryajain">LinkedIn</a> •
+<a href="mailto:aryagadekar2001@gmail.com">Email</a> •
+<a href="Arya_Jain_Resume.pdf">Resume</a>
 </p>
 
 ---
