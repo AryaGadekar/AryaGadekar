@@ -2,10 +2,10 @@
 Hi, I’m Arya 👋
 </h1>
 
-<p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
+<p align="center"><strong>Data Analyst | Product Analyst | Business Intelligence Analyst | Power BI Developer | Tableau Developer</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Messy+Data+into+Clear+Stories;Dashboard+Design+%26+Decision+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Arya - Data Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Turning+Messy+Data+into+Clear+Stories" />
 </div>
 
 <p align="center">
