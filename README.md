@@ -47,9 +47,6 @@ That’s me. The rest is in my experience section if you’re still interested.
 ## Featured Projects
 
 ### Blinkit Retail Performance & Revenue Analytics Dashboard  
-## 📊 Featured Projects
-
-### Blinkit Retail Performance & Revenue Analytics Dashboard
 
 <p align="center">
   <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="850"/>
