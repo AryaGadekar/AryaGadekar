@@ -3,10 +3,12 @@
 </h1>
 <p align="center"><b>Data Analyst | Business Intelligence</b></p>
 <p align="center">
-  I turn complex data into clear, decision-ready insights.
+  Transforming raw data into business impact.
 </p>
 <p align="center">
-  SQL • Python • Power BI • Tableau
+  <a href="https://linkedin.com/in/aryajain">LinkedIn</a> • 
+  <a href="mailto:aryagadekar2001@gmail.com">Email</a> • 
+  <a href="Arya_Jain_Resume.pdf">Resume</a>
 </p>
 
 ---
