@@ -19,9 +19,15 @@ Data Visualization • Statistical Analysis • Data Modeling • Data Preparati
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/aryajain">LinkedIn</a> •
-<a href="mailto:aryagadekar2001@gmail.com">Email</a> •
-<a href="Arya_Jain_Resume.pdf">Resume</a>
+  <a href="https://linkedin.com/in/aryajain">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:aryagadekar2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="Arya_Jain_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-grey?style=for-the-badge&logo=adobepdf"/>
+  </a>
 </p>
 
 ---
