@@ -36,9 +36,9 @@ I enjoy diving into messy datasets and turning them into insights people can act
 
 I love solving problems that look confusing at first and turning them into something simple and clear. Give me unclear requirements, scattered data, and a tight deadline, and I will still find a way to make it work with coffee and a good playlist by my side.
 
-Outside work, I love travel, stories, discovering new things. I love long bus rides to places I can’t pronounce, airports at odd hours, and fleeting conversations with strangers who leave a mark. Reading gives me what dashboards cannot: perspective, emotion, and a window into worlds I’ve never stepped into. I try to grow a little every day, not by chasing big milestones, but by enjoying the small moments along the way.
+Outside work, I love traveling, stories, and discovering new things. I love long bus rides to places I can’t pronounce, airports at odd hours, and fleeting conversations with strangers who leave a mark. Reading gives me what dashboards cannot: perspective, emotion, and a window into worlds I’ve never stepped into. I try to grow a little every day, not by chasing big milestones, but by enjoying the small moments along the way.
 
-I like working with people who are kind, driven and genuine. People who care about doing good work and don’t complicate life for no reason.
+I like working with people who are kind, driven, and genuine. People who care about doing good work and don’t complicate life for no reason.
 
 That’s me. The rest is in my experience section if you’re still interested.
 
@@ -47,9 +47,28 @@ That’s me. The rest is in my experience section if you’re still interested.
 ## Featured Projects
 
 ### Blinkit Retail Performance & Revenue Analytics Dashboard  
-A retail analytics platform that ties sales, inventory, and promotions into daily performance views. I built scheduled ETL, product-level metrics, and executive dashboards that highlighted pricing and fill rate levers.
+## 📊 Featured Projects
 
-[![Blinkit thumbnail](Blinkit Retail Performance & Revenue Analytics Dashboard.png)](Blinkit Retail Performance & Revenue Analytics Dashboard.png)
+### Blinkit Retail Performance & Revenue Analytics Dashboard
+
+<p align="center">
+  <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="850"/>
+</p>
+
+Developed an interactive **retail analytics dashboard** to analyze sales performance across outlets, product categories, and locations. The dashboard consolidates **8,500+ product records** and enables real-time monitoring of key business metrics to support data-driven retail decision-making.
+
+**Key Highlights**
+
+• Analyzed **$1.20M in total sales** across multiple outlet types and product categories  
+• Evaluated performance of **8,523 items** to identify top revenue-generating products  
+• Built dynamic **Power BI dashboards using DAX measures** to track KPIs such as average sales ($141) and customer ratings (3.9)  
+• Identified **Tier 3 locations as highest revenue contributors (~$472K)** compared to Tier 1 and Tier 2 markets  
+• Compared outlet size performance, revealing **large outlets driving the highest sales (~$507K)**  
+• Delivered an interactive dashboard enabling **faster performance monitoring and retail insights**
+
+**Tools Used**
+
+`Power BI` • `SQL` • `Excel` • `DAX` • `Data Modeling` • `Data Visualization`
 
 ### Hotel Portfolio Revenue & Performance Intelligence  
 A cross-property revenue intelligence solution. I modeled demand by channel, built forecasts linked to rate rules, and delivered operational dashboards for revenue teams.
