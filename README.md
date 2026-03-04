@@ -1,30 +1,24 @@
-<h1 align="center">
-  Hi, I’m Arya 👋
-</h1>
+# Hi, I’m Arya ✨
 
-<p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
-
-<p align="center">
-  Turning complex datasets into clear insights that drive confident decisions.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Messy+Data+into+Clear+Stories;Dashboard+Design+%26+Decision+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Arya - Data Analyst" />
+</div>
 
 <p align="center">
-  SQL • Python • Power BI • Tableau
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://linkedin.com/in/aryajain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/aryajain" aria-label="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:aryagadekar2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-34A853?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:aryagadekar2001@gmail.com" aria-label="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="Arya_Jain_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-6C757D?style=flat-square&logo=adobepdf&logoColor=white" />
+  <a href="https://github.com/arya-jain" aria-label="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="Arya_Jain_Resume.pdf" aria-label="Resume" download>
+    <img src="https://img.shields.io/badge/Resume-Download-gray?style=for-the-badge&logo=adobepdf" alt="Resume Download" />
   </a>
 </p>
+
 ---
 
 ## About Me
