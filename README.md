@@ -1,8 +1,39 @@
-# Hi, I’m Arya 👋
+<h1 align="center">
+Hi, I’m Arya 👋
+</h1>
+
+<p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Messy+Data+into+Clear+Stories;Dashboard+Design+%26+Decision+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Arya - Data Analyst" />
 </div>
+
+<p align="center">
+SQL • Python • Power BI • Tableau
+</p>
+
+<p align="center">
+
+### `Turning Messy Data into Clear Stories`
+
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://linkedin.com/in/aryajain">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aryagadekar2001@gmail.com">
+<img src="https://img.shields.io/badge/Email-34A853?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="Arya_Jain_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-6C757D?style=flat-square&logo=adobepdf&logoColor=white"/>
+</a>
+</p>
+
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/aryajain" aria-label="LinkedIn">
