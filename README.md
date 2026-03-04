@@ -5,7 +5,9 @@
 <p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
 
 <p align="center">
+  <span style="color:#2F81F7; font-weight:500;">
   Turning messy datasets into stories that drive smarter decisions
+  </span>
 </p>
 
 <p align="center">
