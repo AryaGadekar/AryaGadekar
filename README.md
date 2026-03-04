@@ -49,7 +49,7 @@ That’s me. The rest is in my experience section if you’re still interested.
 ### Blinkit Retail Performance & Revenue Analytics Dashboard  
 A retail analytics platform that ties sales, inventory, and promotions into daily performance views. I built scheduled ETL, product-level metrics, and executive dashboards that highlighted pricing and fill rate levers.
 
-[![Blinkit thumbnail](assets/blinkit-thumb.png)](assets/blinkit-full.png)
+[![Blinkit thumbnail](Blinkit Retail Performance & Revenue Analytics Dashboard.png)](Blinkit Retail Performance & Revenue Analytics Dashboard.png)
 
 ### Hotel Portfolio Revenue & Performance Intelligence  
 A cross-property revenue intelligence solution. I modeled demand by channel, built forecasts linked to rate rules, and delivered operational dashboards for revenue teams.
