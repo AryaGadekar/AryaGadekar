@@ -5,7 +5,7 @@ Hi, I’m Arya 👋
 <p align="center"><strong>Data Analyst | Product Analyst | Business Intelligence Analyst | Power BI Developer | Tableau Developer</strong></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=Turning+Messy+Data+into+Stories+that+drive+Smarter+decision-Making!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Turning+Messy+Data+into+Stories+that+Drive+Smarter+Decision-Making"/>
 </div>
 
 <p align="center">
