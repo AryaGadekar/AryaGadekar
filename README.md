@@ -5,14 +5,16 @@
 <p align="center"><strong>Data Analyst | Business Intelligence</strong></p>
 
 <p align="center">
-  <span style="color:#2F81F7; font-weight:500;">
-  Turning messy datasets into stories that drive smarter decisions
-  </span>
+  I turn complex data into clear, decision-ready insights.
 </p>
 
 <p align="center">
   SQL • Python • Power BI • Tableau
 </p>
+
+<h3 align="center">
+  <font color="#2F81F7">Turning messy datasets into stories that drive smarter decisions</font>
+</h3>
 
 <br>
 
