@@ -44,13 +44,16 @@ That’s me. The rest is in my experience section if you’re still interested.
 
 ---
 
-## Featured Projects
+## Analytics Projects
 
 ### Blinkit Retail Performance & Revenue Analytics Dashboard  
 
 <p align="center">
   <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="850"/>
 </p>
+**View Project**
+
+[View Dashboard](link-to-dashboard) • [View Project Repository]([link-to-repo](https://futurlytic-my.sharepoint.com/:u:/p/arya_gadekar/IQB0MzpYXm_xQ6s61w40F7czAaxVFluyAkG0FiD3iWSMiYc?e=lM8IZ6))
 
 Developed an interactive **retail analytics dashboard** to analyze sales performance across outlets, product categories, and locations. The dashboard consolidates **8,500+ product records** and enables real-time monitoring of key business metrics to support data-driven retail decision-making.
 
@@ -95,11 +98,11 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 **Business Intelligence & Visualization**  
 Power BI • Tableau • Dashboard Development • Data Visualization • Data Storytelling • KPI Dashboards
 
-**Data Analysis**  
-Exploratory Data Analysis (EDA) • Statistical Analysis • Trend Analysis • Performance Analysis • KPI Monitoring • Business Insights
-
 **Data Querying**  
 SQL • Data Extraction • Joins • Aggregations • Filtering • Data Validation
+
+**Data Analysis**  
+Exploratory Data Analysis (EDA) • Statistical Analysis • Trend Analysis • Performance Analysis • KPI Monitoring • Business Insights
 
 **Programming**  
 Python • Data Cleaning • Data Processing • Data Transformation
@@ -111,11 +114,11 @@ Excel • Pivot Tables • Data Reporting • Automation
 
 ## Wrapping Things Up
 
-Thank you for taking the time to explore my portfolio. I enjoy working with data to uncover patterns, track performance, and turn complex information into clear insights that support better decisions.
+Thank you for taking the time to explore my portfolio. I enjoy working with data to uncover patterns, track performance, and transform complex information into clear insights.
 
-Whether it’s analyzing messy datasets, building dashboards, or identifying trends that drive business performance, I’m always curious about the story behind the numbers.
+Whether it's analyzing messy datasets, building dashboards, or identifying trends that influence business decisions, I'm always curious about the story behind the numbers.
 
-If my work resonates with you or if you’re interested in collaborating, I’d be happy to connect.
+If my work resonates with you or you're looking for someone who enjoys solving problems with data, I’d love to connect.
 
 > **Reach out:** aryagadekar2001@gmail.com  
 >  
