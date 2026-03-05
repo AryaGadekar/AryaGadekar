@@ -92,45 +92,30 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 
 ## Skills & Tools
 
-## 🛠 Technical Skills
+## 🧰 Skills & Tools
 
-### 📊 Data Analysis & Querying
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+### 📊 Business Intelligence & Visualization
+- **Power BI** – Interactive dashboards, KPI tracking, DAX measures
+- **Excel** – Data cleaning, pivot tables, dashboard reporting
+- **Tableau** – Data storytelling and visualization
 
-- Complex joins, aggregations, CTEs, and performance-tuned queries  
-- Data cleaning, transformation, and exploratory analysis
+### 🗄 Data Querying & Databases
+- **SQL** – Data extraction, joins, aggregations, query optimization
+- **Data Modeling** – Star schema, relationships, dimensional modeling
 
----
+### 📈 Data Analysis
+- **Exploratory Data Analysis (EDA)**
+- **Statistical Analysis**
+- **Trend & Performance Analysis**
+- **Business Insight Generation**
 
-### 📈 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+### 🐍 Programming
+- **Python** – Data manipulation and analysis
 
-- Dashboard design, KPI development, and executive reporting  
-- Power BI: data modeling, DAX measures; Excel: pivot tables & automation
-
----
-
-### 🐍 Python Libraries
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-- Data wrangling, visualization, and basic predictive modeling  
-- Reproducible work via Jupyter notebooks
-
----
-
-### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-- Version control, reproducible analysis, and documented workflows
-
----
-
-### 🧠 Core Concepts
-- Data modeling (star schema, relational design)  
-- Data preparation & ETL, data quality validation  
-- KPI design, dashboarding and reporting efficiency  
-- A/B testing and statistical inference  
-- Translating business problems into analytics solutions
+### ⚙️ Data Workflow & Automation
+- Data cleaning and transformation
+- Reporting automation
+- Analytical workflow optimization
 ---
 
 ## Certifications
