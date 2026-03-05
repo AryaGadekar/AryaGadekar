@@ -92,19 +92,19 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 
 ## Skills & Tools
 
-**Business Intelligence**
-Power BI • Tableau • Dashboard Development • Data Visualization
+**Business Intelligence & Visualization**  
+Power BI • Tableau • Dashboard Development • Data Visualization • Data Storytelling • KPI Dashboards
 
-**Data Analysis**
-Exploratory Data Analysis (EDA) • Statistical Analysis • KPI Tracking • Trend Analysis
+**Data Analysis**  
+Exploratory Data Analysis (EDA) • Statistical Analysis • Trend Analysis • Performance Analysis • KPI Monitoring • Business Insights
 
-**Data Querying**
-SQL • Data Extraction • Joins & Aggregations
+**Data Querying**  
+SQL • Data Extraction • Joins • Aggregations • Filtering • Data Validation
 
-**Programming**
-Python • Data Cleaning • Data Processing
+**Programming**  
+Python • Data Cleaning • Data Processing • Data Transformation
 
-**Tools**
+**Tools**  
 Excel • Pivot Tables • Data Reporting • Automation
 ---
 
