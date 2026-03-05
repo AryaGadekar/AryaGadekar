@@ -95,60 +95,42 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 ## 🛠 Technical Skills
 
 ### 📊 Data Analysis & Querying
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-- Complex joins, aggregations, CTEs, and performance-optimized queries  
-- Data cleaning, transformation, and exploratory analysis  
+- Complex joins, aggregations, CTEs, and performance-tuned queries  
+- Data cleaning, transformation, and exploratory analysis
 
 ---
 
-### 📈 Data Visualization & Business Intelligence
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+### 📈 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-- Dashboard development and KPI tracking  
-- Data modeling and DAX (Power BI)  
-- Pivot tables, advanced formulas, and reporting automation  
-- Executive-ready reporting and storytelling  
+- Dashboard design, KPI development, and executive reporting  
+- Power BI: data modeling, DAX measures; Excel: pivot tables & automation
 
 ---
 
 ### 🐍 Python Libraries
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- Data wrangling and preprocessing  
-- Statistical analysis and basic predictive modeling  
-- Exploratory data visualization  
+- Data wrangling, visualization, and basic predictive modeling  
+- Reproducible work via Jupyter notebooks
 
 ---
 
 ### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- Version control and collaborative workflows  
-- Reproducible analysis using notebooks  
-- Structured documentation and project organization  
+- Version control, reproducible analysis, and documented workflows
 
 ---
 
-### 🧠 Data & Analytics Concepts
-
+### 🧠 Core Concepts
 - Data modeling (star schema, relational design)  
-- ETL processes and data validation  
-- KPI design and performance measurement  
+- Data preparation & ETL, data quality validation  
+- KPI design, dashboarding and reporting efficiency  
 - A/B testing and statistical inference  
-- Translating business problems into analytical solutions
-
+- Translating business problems into analytics solutions
 ---
 
 ## Certifications
