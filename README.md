@@ -104,8 +104,9 @@ SQL • Data Extraction • Joins • Aggregations • Filtering • Data Valida
 **Programming**  
 Python • Data Cleaning • Data Processing • Data Transformation
 
-**Tools**  
+**Programming**  
 Excel • Pivot Tables • Data Reporting • Automation
+
 ---
 
 ## Certifications
