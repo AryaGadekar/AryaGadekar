@@ -67,10 +67,26 @@ Developed an interactive **retail analytics dashboard** to analyze sales perform
 
 `Power BI` • `Excel` • `Data Visualization` • `Dashboard Design`
 
-### Hotel Portfolio Revenue & Performance Intelligence  
-A cross-property revenue intelligence solution. I modeled demand by channel, built forecasts linked to rate rules, and delivered operational dashboards for revenue teams.
+### Coral Properties Hotel Revenue & Performance Intelligence Dashboard
 
-[![Hotel thumbnail](assets/hotel-thumb.png)](assets/hotel-full.png)
+<p align="center">
+  <img src="Coral Properties Hotel Revenue & Performance Intelligence Dashboard.png" width="850"/>
+</p>
+
+Developed an interactive **hospitality analytics dashboard** to monitor revenue performance, occupancy trends, and booking platform efficiency across multiple Coral Properties locations. The dashboard centralizes key hotel KPIs to support data-driven revenue management and operational decision-making.
+
+**Key Highlights**
+
+• Analyzed portfolio performance generating **$1.69B in total revenue** across multiple hotel properties  
+• Tracked core hospitality KPIs including **RevPAR (7,337), ADR (12.7K), Occupancy Rate (57.8%), and Realisation Rate (70.1%)**  
+• Evaluated **booking platform performance** to identify high-conversion channels and revenue-driving sources  
+• Compared **weekend vs weekday trends**, revealing differences in occupancy and pricing strategies  
+• Built time-series trend analysis for **RevPAR, ADR, and occupancy** to monitor revenue fluctuations across weeks  
+• Enabled **property-level performance benchmarking** across cities and hotel brands
+
+**Tools Used**
+
+`Power BI` • `Excel`
 
 ---
 
