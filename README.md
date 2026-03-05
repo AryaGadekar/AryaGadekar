@@ -44,6 +44,14 @@ That’s me. The rest is in my experience section if you’re still interested.
 
 ---
 
+## Portfolio Highlights
+
+• 2.5+ years working with data analytics, business intelligence dashboards, and KPI performance monitoring  
+• Built interactive Power BI dashboards analyzing datasets with 8,500+ records across retail and hospitality domains  
+• Experienced in transforming raw data into actionable insights through SQL analysis, visualization, and performance tracking  
+• Focused on translating complex business metrics into clear dashboards that support data-driven decisions
+
+---
 ## Analytics Projects
 
 ### Blinkit Retail Performance & Revenue Analytics Dashboard  
