@@ -47,6 +47,7 @@ That’s me. The rest is in my experience section if you’re still interested.
 ## Analytics Projects
 
 ### Blinkit Retail Performance & Revenue Analytics Dashboard  
+*Retail analytics dashboard analyzing sales performance across outlets, product categories, and locations using Power BI.*
 
 <p align="center">
   <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="850"/>
@@ -54,7 +55,7 @@ That’s me. The rest is in my experience section if you’re still interested.
 
 **View Project**
 
-📂 [View Repository]([(https://github.com/AryaGadekar/Blinkit-Retail-Performance-Revenue-Analytics-Dashboard/blob/main/Blinkit%20Retail%20Performance%20%26%20Revenue%20Analytics%20Dashboard.pbix))
+[View Repository](https://github.com/AryaGadekar/Blinkit-Retail-Performance-Revenue-Analytics-Dashboard)
 
 Developed an interactive **retail analytics dashboard** to analyze sales performance across outlets, product categories, and locations. The dashboard consolidates **8,500+ product records** and enables real-time monitoring of key business metrics to support data-driven retail decision-making.
 
@@ -72,6 +73,7 @@ Developed an interactive **retail analytics dashboard** to analyze sales perform
 `Power BI` • `Excel` • `Data Visualization` • `Dashboard Design`
 
 ### Coral Properties Hotel Revenue & Performance Intelligence Dashboard
+*Hospitality analytics dashboard monitoring revenue performance, occupancy trends, and key hotel KPIs using Power BI.*
 
 <p align="center">
   <img src="Coral Properties Hotel Revenue & Performance Intelligence Dashboard.png" width="850"/>
@@ -79,7 +81,7 @@ Developed an interactive **retail analytics dashboard** to analyze sales perform
 
 **View Project**
 
-📂 [View Repository](https://github.com/AryaGadekar/Coral-Properties-Hotel-Revenue-Performance-Intelligence-Dashboard)
+[View Repository](https://github.com/AryaGadekar/Coral-Properties-Hotel-Revenue-Performance-Intelligence-Dashboard)
 
 Developed an interactive **hospitality analytics dashboard** to monitor revenue performance, occupancy trends, and booking platform efficiency across multiple Coral Properties locations. The dashboard centralizes key hotel KPIs to support data-driven revenue management and operational decision-making.
 
