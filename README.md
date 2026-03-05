@@ -104,41 +104,19 @@ SQL • Data Extraction • Joins • Aggregations • Filtering • Data Valida
 **Programming**  
 Python • Data Cleaning • Data Processing • Data Transformation
 
-**Programming**  
+**Tools**  
 Excel • Pivot Tables • Data Reporting • Automation
 
 ---
 
-## Certifications
+## Wrapping Things Up
 
-<details>
-<summary>Show certificates</summary>
+Thank you for taking the time to explore my portfolio. I enjoy working with data to uncover patterns, track performance, and turn complex information into clear insights that support better decisions.
 
-- **Data Visualization** — [certificate image](assets/cert-data-viz.png)  
-  `[![Data Viz cert](assets/cert-data-viz-thumb.png)](assets/cert-data-viz.png)`
+Whether it’s analyzing messy datasets, building dashboards, or identifying trends that drive business performance, I’m always curious about the story behind the numbers.
 
-- **Power BI Data Analyst Associate** — Microsoft  
-  `[![Power BI cert](assets/cert-powerbi-thumb.png)](assets/cert-powerbi.png)`
+If my work resonates with you or if you’re interested in collaborating, I’d be happy to connect.
 
-- **Data Scientist with Python Track** — [provider name]  
-  `[![Python cert](assets/cert-python-thumb.png)](assets/cert-python.png)`
-
-</details>
-
----
-
-## Quick contact
-
-- LinkedIn: https://linkedin.com/in/aryajain  
-- Email: aryagadekar2001@gmail.com  
-- Mobile: 8668998645
-
----
-
-Thank you for reading. If you want, I can also:
-
-1. resize your dashboard images and create neat thumbnails for `assets/` so the README loads quickly  
-2. convert your skill badges to a single SVG row for a more refined look  
-3. produce a 1-line hero variant for the top, if you prefer ultra minimal
-
-Tell me which of those to do and I will update the markdown and image names accordingly.
+> **Reach out:** aryagadekar2001@gmail.com  
+>  
+> **Connect on LinkedIn:** https://linkedin.com/in/aryajain
