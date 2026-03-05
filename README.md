@@ -51,9 +51,8 @@ That’s me. The rest is in my experience section if you’re still interested.
 <p align="center">
   <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="850"/>
 </p>
-**View Project**
 
-[View Dashboard](link-to-dashboard) • [View Project Repository]([link-to-repo](https://futurlytic-my.sharepoint.com/:u:/p/arya_gadekar/IQB0MzpYXm_xQ6s61w40F7czAaxVFluyAkG0FiD3iWSMiYc?e=lM8IZ6))
+[View Project Repository]([https://github.com/AryaGadekar/Blinkit-Retail-Performance-Revenue-Analytics-Dashboard))
 
 Developed an interactive **retail analytics dashboard** to analyze sales performance across outlets, product categories, and locations. The dashboard consolidates **8,500+ product records** and enables real-time monitoring of key business metrics to support data-driven retail decision-making.
 
