@@ -92,21 +92,19 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 
 ## Skills & Tools
 
-### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=flat&logo=tableau&logoColor=white)
+## 🛠 Skills & Tools
 
-### 🗄 Data Querying
-![SQL](https://img.shields.io/badge/SQL-Data%20Queries-336791?style=flat&logo=postgresql&logoColor=white)
+**Core Skills**
 
-### 📈 Data Analysis
-![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-Insights-blue?style=flat)
-![KPI Analysis](https://img.shields.io/badge/KPI%20Monitoring-Business%20Metrics-purple?style=flat)
-![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Performance-orange?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B5563?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B5563?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-4B5563?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4B5563?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4B5563?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat&logo=python&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-4B5563?style=for-the-badge&logo=powerbi&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-4B5563?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4B5563?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
 
 ## Certifications
