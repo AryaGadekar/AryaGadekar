@@ -92,19 +92,20 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 
 ## Skills & Tools
 
-## 🛠 Skills & Tools
+**Business Intelligence**
+Power BI • Tableau • Dashboard Development • Data Visualization
 
-**Core Skills**
+**Data Analysis**
+Exploratory Data Analysis (EDA) • Statistical Analysis • KPI Tracking • Trend Analysis
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B5563?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B5563?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-4B5563?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4B5563?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-4B5563?style=for-the-badge&logo=tableau&logoColor=white)
+**Data Querying**
+SQL • Data Extraction • Joins & Aggregations
 
-![Power%20BI](https://img.shields.io/badge/Power%20BI-4B5563?style=for-the-badge&logo=powerbi&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-4B5563?style=for-the-badge&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-4B5563?style=for-the-badge&logo=githubactions&logoColor=white)
+**Programming**
+Python • Data Cleaning • Data Processing
+
+**Tools**
+Excel • Pivot Tables • Data Reporting • Automation
 ---
 
 ## Certifications
