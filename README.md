@@ -52,7 +52,9 @@ That’s me. The rest is in my experience section if you’re still interested.
   <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="850"/>
 </p>
 
-[View Project Repository]([https://github.com/AryaGadekar/Blinkit-Retail-Performance-Revenue-Analytics-Dashboard))
+**View Project**
+
+📂 [View Repository](https://github.com/AryaGadekar/Coral-Properties-Hotel-Revenue-Performance-Intelligence-Dashboard)
 
 Developed an interactive **retail analytics dashboard** to analyze sales performance across outlets, product categories, and locations. The dashboard consolidates **8,500+ product records** and enables real-time monitoring of key business metrics to support data-driven retail decision-making.
 
