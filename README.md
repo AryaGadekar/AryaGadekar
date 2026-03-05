@@ -94,28 +94,21 @@ Developed an interactive **hospitality analytics dashboard** to monitor revenue 
 
 ## 🧰 Skills & Tools
 
-### 📊 Business Intelligence & Visualization
-- **Power BI** – Interactive dashboards, KPI tracking, DAX measures
-- **Excel** – Data cleaning, pivot tables, dashboard reporting
-- **Tableau** – Data storytelling and visualization
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🗄 Data Querying & Databases
-- **SQL** – Data extraction, joins, aggregations, query optimization
-- **Data Modeling** – Star schema, relationships, dimensional modeling
+### Data Querying
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📈 Data Analysis
-- **Exploratory Data Analysis (EDA)**
-- **Statistical Analysis**
-- **Trend & Performance Analysis**
-- **Business Insight Generation**
+### Data Analysis
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-Analytics-blue?style=for-the-badge)
+![KPI Analysis](https://img.shields.io/badge/KPI%20Tracking-Business%20Insights-purple?style=for-the-badge)
+![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Performance-orange?style=for-the-badge)
 
-### 🐍 Programming
-- **Python** – Data manipulation and analysis
-
-### ⚙️ Data Workflow & Automation
-- Data cleaning and transformation
-- Reporting automation
-- Analytical workflow optimization
+### Programming
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## Certifications
