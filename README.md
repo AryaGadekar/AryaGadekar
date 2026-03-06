@@ -58,7 +58,7 @@ That’s me. The rest is in my experience section if you’re still interested.
 *Retail analytics dashboard analyzing sales performance across outlets, product categories, and locations using Power BI.*
 
 <p align="center">
-  <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="500"/>
+  <img src="Blinkit Retail Performance & Revenue Analytics Dashboard.png" width="400"/>
 </p>
 
 **View Project**
@@ -84,7 +84,7 @@ Developed an interactive **retail analytics dashboard** to analyze sales perform
 *Hospitality analytics dashboard monitoring revenue performance, occupancy trends, and key hotel KPIs using Power BI.*
 
 <p align="center">
-  <img src="Coral Properties Hotel Revenue & Performance Intelligence Dashboard.png" width="500"/>
+  <img src="Coral Properties Hotel Revenue & Performance Intelligence Dashboard.png" width="400"/>
 </p>
 
 **View Project**
