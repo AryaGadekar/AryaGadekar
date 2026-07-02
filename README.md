@@ -21,7 +21,7 @@ Data Visualization • Statistical Analysis • Data Modeling • Data Preparati
 <p align="center">
 <a href="https://linkedin.com/in/aryajain">LinkedIn</a> •
 <a href="mailto:aryagadekar2001@gmail.com">Email</a> •
-<a href="Arya_Jain_Resume.pdf">Resume</a>
+<a href="AryaGadekar_DataAnalyst.pdf">Resume</a>
 </p>
 
 ---
